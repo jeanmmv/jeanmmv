@@ -57,8 +57,8 @@ git                  ferramenta    sempre equipado
 ### `[ STATS ]`
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jeanmmv&show_icons=true&hide_border=true&bg_color=0d0b1a&title_color=ffd23f&icon_color=ff5c8a&text_color=7df9ff&hide_title=false" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmmv&layout=compact&hide_border=true&bg_color=0d0b1a&title_color=ffd23f&text_color=7df9ff" alt="linguagens mais usadas">
+  <img height="165" src="./profile-summary-card-output/radical/3-stats.svg" alt="stats">
+  <img height="165" src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="linguagens mais usadas">
 </p>
 
 ---
@@ -70,8 +70,8 @@ git                  ferramenta    sempre equipado
 ```
 
 <p>
-  <a href="https://www.linkedin.com/in/jean-carlos-rodrigues-b1b293211/"><img src="https://img.shields.io/badge/linkedin-0d0b1a?style=for-the-badge&logo=linkedin&logoColor=7df9ff" alt="LinkedIn"></a>
-  <a href="mailto:jeancarlos12762@gmail.com"><img src="https://img.shields.io/badge/email-0d0b1a?style=for-the-badge&logo=gmail&logoColor=ff5c8a" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/jean-carlos-rodrigues-b1b293211/"><img src="./assets/btn-linkedin.svg" alt="LinkedIn"></a>
+  <a href="mailto:jeancarlos12762@gmail.com"><img src="./assets/btn-email.svg" alt="Email"></a>
 </p>
 
 <sub>`GAME OVER? não, só checkpoint. continue: 1 credit restante.`</sub>
